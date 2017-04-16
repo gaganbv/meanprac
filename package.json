@@ -1,0 +1,19 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "practic mean stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaganbv/meanprac.git"
+  },
+  "author": "gagbv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaganbv/meanprac/issues"
+  },
+  "homepage": "https://github.com/gaganbv/meanprac#readme"
+}
